@@ -14,4 +14,10 @@ This is the book of _Mann-E_, the Iranian startup specializing in _text to image
 
 ## Who should read this book?
 
+This book is just documenting experiences with _Stable Diffusion_ and fine-tuning the [Stable Diffusion 1.5](https://huggingface.co/runwayml/stable-diffusion-v1-5) model which is very popular at the time of writing this book. 
+
+_NOTE: Stable Diffusion XL 1.0 is also out, but it still isn't a good choice for fine-tuning_.
+
+So everyone who has some level of enthusiasm for AI image generation and fine-tuning models, this book is for you. 
+
 ## How to read this book.
