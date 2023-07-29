@@ -21,3 +21,7 @@ _NOTE: Stable Diffusion XL 1.0 is also out, but it still isn't a good choice for
 So everyone who has some level of enthusiasm for AI image generation and fine-tuning models, this book is for you. 
 
 ## How to read this book.
+
+This book includes technical details of an AI program, so having a background in computer scinece or AI is necessary. Although I personally tried to keep things as simple as possible, because understanding the platform has a better outcome in users' minds. 
+
+Everywhere a code snippet is shown, there will be a clear explanation of what is happening there. Each prompt and each technical word used here will be explained and there will be no worries if you are not an experienced expert in the field.
